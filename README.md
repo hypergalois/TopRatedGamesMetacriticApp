@@ -12,6 +12,10 @@ Esta es una captura de pantalla de la página de Metacritic, de donde scrapeamos
 
 A continuación, se muestra la aplicación en funcionamiento en cada una de las plataformas:
 
+### PC
+
+![PC App](assets/pc.gif)
+
 ### Android
 
 ![Android App](assets/android.gif)
@@ -19,10 +23,6 @@ A continuación, se muestra la aplicación en funcionamiento en cada una de las 
 ### iOS
 
 ![iOS App](assets/ios.gif)
-
-### PC
-
-![PC App](assets/pc.gif)
 
 ## Tecnologías
 
