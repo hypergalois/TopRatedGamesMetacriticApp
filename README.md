@@ -1,16 +1,16 @@
 # Metacritic Games App
 
-Esta aplicación te permite explorar los juegos mejor valorados en Metacritic, mostrando detalles como la fecha de lanzamiento, calificaciones y reseñas. Es una prueba de concepto desarrollada para demostrar el uso de React Native y Expo en la creación de una aplicación móvil y web.
+This application allows you to explore the highest-rated games on Metacritic, displaying details such as release dates, ratings, and reviews. It is a proof-of-concept developed to demonstrate the use of React Native and Expo in creating a mobile and web application.
 
-## Captura de Metacritic
+## Metacritic Screenshot
 
-Esta es una captura de pantalla de la página de Metacritic, de donde scrapeamos los datos de los mejores juegos:
+This is a screenshot of the Metacritic page, from which we scraped data on the top-rated games:
 
 ![Metacritic Screenshot](assets/1.png)
 
-## Funcionamiento de la App
+## App Functionality
 
-A continuación, se muestra la aplicación en funcionamiento en cada una de las plataformas:
+Below is the application running on different platforms:
 
 ### PC
 
@@ -24,9 +24,9 @@ A continuación, se muestra la aplicación en funcionamiento en cada una de las 
 
 ![iOS App](assets/ios.gif)
 
-## Tecnologías
+## Technologies
 
-- **React Native**: Framework para construir aplicaciones móviles.
-- **Expo**: Plataforma para construir y desplegar aplicaciones React Native.
-- **NativeWind**: Sistema de estilos basado en Tailwind CSS.
-- **Metacritic API**: Fuente de datos para los juegos.
+- **React Native**: Framework for building mobile applications.
+- **Expo**: Platform for developing and deploying React Native apps.
+- **NativeWind**: Styling system based on Tailwind CSS.
+- **Metacritic API**: Data source for games.
